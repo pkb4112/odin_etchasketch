@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+.block {
+	width:25px;
+	height:25px;
+	background-color:red;
+	margin: 0px;
+	border:2px solid white;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+.grid {
+  height:400px;
+  width: 400px;
+}
+
